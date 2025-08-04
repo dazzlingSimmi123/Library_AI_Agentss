@@ -65,7 +65,8 @@ Provides librarians with actionable analytics
 ![tools](https://github.com/user-attachments/assets/c2b35393-b722-46d6-ba32-2863e59a82d3)
 ![deployment](https://github.com/user-attachments/assets/feaf6aef-b516-4cef-a806-2c87a40446e4)
 
-
+# Acknowledgements
+Created as part of IBM SkillsBuild Academic Hackathon. Powered by IBM Cloud Watsonx AI Studio & Prompt Lab.
 
 
 
