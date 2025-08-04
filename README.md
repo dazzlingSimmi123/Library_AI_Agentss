@@ -1,4 +1,6 @@
 # Library_AI_Agentss
+<img width="1024" height="1024" alt="Library agentic AI p" src="https://github.com/user-attachments/assets/2fe41437-7880-4c0d-a714-c6dd7410ffe7" />
+
 The Library AI Agent is a smart virtual assistant that helps students and faculty find the most relevant books and study materials. It understands natural language queries, matches them with the library database, checks real-time availability, and offers personalized recommendations for academic success.
 
 # What is the Library AI Agent?
